@@ -1,26 +1,22 @@
-<h1 align="center">Hi 👋, I'm Abhilasha Sarode</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Lifelong Learner
-</h3>
+# Hi 👋, I'm Abhilasha Sarode
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Enthusiast;AI+%26+Machine+Learning;Building+Real+World+Projects;Always+Learning+New+Things" />
-</p>
+### Backend Developer • Java • Spring Boot • Full Stack Development
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Applications;Java+%7C+Spring+Boot+Developer;REST+API+Development;Learning+Microservices+and+Cloud;Open+to+Software+Engineering+Opportunities"/>
 
-<p align="center">
+<br>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="YOUR_LEETCODE">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -28,64 +24,49 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
 
-<p align="center">
+![](https://komarev.com/ghpvc/?username=Abhilashaa10&style=for-the-badge&color=0e75b6)
 
-<img src="https://komarev.com/ghpvc/?username=Abhilashaa10&label=Profile+Views&color=58A6FF&style=flat"/>
+</div>
 
-<img src="https://img.shields.io/github/followers/Abhilashaa10?label=Followers&style=flat&color=58A6FF"/>
+---
+
+# 🚀 About Me
+
+🎓 B.Tech Computer Science Student
+
+💻 Interested in Backend Development and Distributed Systems
+
+⚙️ Building Java & Spring Boot Applications
+
+📚 Learning Microservices, Docker, JWT and OAuth
+
+🎯 Preparing for Software Engineering Roles
+
+---
+
+# 🌐 Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite"/>
 
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# ⚙ Backend
 
-🎓 **B.Tech CSE Student** @ MIT ADT University
+<p>
 
-💙 Passionate about **Backend Development**, **Artificial Intelligence**, and **Full Stack Development**
+<img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,express"/>
 
-🌱 Currently Learning
-
-- Spring Boot
-- Microservices
-- Docker
-- Machine Learning
-- System Design
-
-💡 Interested in
-
-- Backend Engineering
-- AI Applications
-- Open Source
-- Cloud Technologies
-
-📫 Reach me at
-
-**YOUR_EMAIL**
+</p>
 
 ---
 
-# 🛠 Tech Stack
-
-### 💻 Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css"/>
-
-</p>
-
-### ⚙ Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring,react,fastapi,bootstrap"/>
-
-</p>
-
-### 🗄 Databases
+# 🗄 Database & Caching
 
 <p>
 
@@ -93,85 +74,119 @@
 
 </p>
 
-### ☁ Tools
+---
+
+# ☁ Cloud & DevOps
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux"/>
 
 </p>
+
+---
+
+# 💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js"/>
+
+</p>
+
+---
+
+# 🏗 Technologies & Architecture Worked On
+
+```text
+✓ REST APIs
+
+✓ Spring Boot
+
+✓ MVC Architecture
+
+✓ Object-Oriented Programming
+
+✓ JWT Authentication
+
+✓ OAuth 2.0
+
+✓ Docker
+
+✓ Git & GitHub
+
+✓ Maven
+
+✓ JDBC
+
+✓ Hibernate
+
+✓ SQL Optimization
+
+✓ Data Structures & Algorithms
+```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎫 AY Ticket Booking System
+## 🎓 Student Management System
 
-✔ Java 17
-
-✔ Spring Boot
-
-✔ Kafka
-
-✔ Redis
-
-✔ PostgreSQL
-
-✔ Docker
-
-✔ Microservices
+```
+Java
+Collections
+Serialization
+CRUD
+File Handling
+```
 
 ---
 
-## 📚 VocabVault
+## 💳 UPI Fraud Detection System
 
-✔ FastAPI
-
-✔ PostgreSQL
-
-✔ Claude API
-
-✔ NLP
-
-✔ AI Generated Quizzes
+```
+Python
+Machine Learning
+FastAPI
+React
+Fraud Detection
+```
 
 ---
 
 ## 🏠 House Price Prediction
 
-✔ Python
-
-✔ Machine Learning
-
-✔ Linear Regression
-
-✔ Data Visualization
+```
+Python
+Linear Regression
+Scikit-Learn
+```
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhilashaa10&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhilashaa10&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashaa10&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashaa10&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashaa10&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Abhilashaa10&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhilashaa10&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhilashaa10&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -181,17 +196,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhilashaa10&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Abhilashaa10/Abhilashaa10/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abhilashaa10&theme=algolia&row=1&column=7"/>
 
 </p>
 
@@ -199,30 +204,32 @@
 
 # 📚 Currently Learning
 
-- 🌱 Spring Boot
-- 🐳 Docker
-- ☁ AWS
-- 🤖 Machine Learning
-- ⚡ System Design
+```text
+Spring Boot
+
+Microservices
+
+JWT
+
+OAuth 2.0
+
+Docker
+
+System Design
+```
 
 ---
 
-# 💡 Quote
+# 📫 Connect
 
-<p align="center">
-
-<i>
-
-"First, solve the problem. Then, write the code."
-
-</i>
-
-</p>
+- LinkedIn : YOUR_LINKEDIN
+- Email : YOUR_EMAIL
+- LeetCode : YOUR_LEETCODE
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+### ⭐ "Code. Learn. Build. Repeat."
 
-</h3>
+</div>
